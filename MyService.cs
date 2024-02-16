@@ -7,5 +7,7 @@
     public void MyServiceMethod()
     {
         Console.WriteLine("MyServiceMethod");
+
+        //injectService.
     }
 }
